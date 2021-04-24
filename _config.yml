@@ -1,5 +1,8 @@
-theme: jekyll-theme-skinny-bones
+theme: jekyll-theme-cayman
 title: Lambed Tatah
 logo: logo.png
 description: Data, Policy & Health in Africa
+header_pages:
+  - about.md
+  - portfolio.md
 
