@@ -26,9 +26,14 @@ baseurl: "/mypage" # the subpath of your site, e.g. /blog
 url: "https://tatahlambed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tatahlambed
 github_username:  tatahlambed
+linkedin_username: tatahlambed
 
+
+author: Lambed Tatah
 # Build settings
 # theme: minima
+coyright: "Lambed Tatah"
+
 plugins:
   - jekyll-feed
 
