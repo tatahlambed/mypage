@@ -1,7 +1,14 @@
 theme: minima
 title: Lambed Tatah
-logo: logo.png
-description: Data, Policy & Health in Africa
+email: tatahlambed@gmail.com
+description: I focus on Data, Policy & Health in Africa
+url: "https://tatahlambed.github.io/mypage" 
+twiter_username: tatahlambed
+github_username: tatahlambed
+author: Lambed Tatah
+plugins:
+  - jekyll-feed
+copyright: Lambed Tatah
 header_pages:
   - about.md
   - portfolio.md
