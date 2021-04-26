@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1619356314146.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8C0ADD87",
+    "lastKnownWriteTime" : 8386114214840984143,
+    "last_content_update" : 1619356314146,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "A180AC74",
+        "caption" : "cameroon_refugee_statistics",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=cameroon_refugee_statistics&cache_key=A180AC74",
+        "displayedObservations" : 46,
+        "environment" : "",
+        "expression" : "cameroon_refugee_statistics",
+        "object" : "cameroon_refugee_statistics",
+        "preview" : 0,
+        "totalObservations" : 46,
+        "variables" : 4
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
